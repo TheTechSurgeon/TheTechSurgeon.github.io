@@ -93,6 +93,10 @@ address {
   margin-bottom: 1rem;
   font-style: normal;
   line-height: inherit; }
+.resumebutton{
+  background-color: black;
+  border: none;
+}
 
 ol,
 ul,
